@@ -12,14 +12,33 @@
 
 ## 👨‍💻 About Me
 
----
-
 ### 🎓 Education
 - 🎓 **MSc in Data Science** — Higher School of Economics (HSE), Moscow *(Sep 2024 – Jun 2026)*
 - 🎓 **BSc in Mathematics** — Sukkur IBA University *(Aug 2019 – Sep 2023)*
 - 📜 **Google Advanced Data Analytics** *(May 2024 – Feb 2025)*
 
 ---
+
+## 🎯 Career Goals and Focus
+🚀 Pursuing a career in **data science** and **machine learning**.
+
+📊 **Special focus on:**
+- Predictive modeling & time-series forecasting.
+- Data cleaning, EDA, and visualization using **Python**.
+- Building scalable data pipelines using **AWS, GCP, PySpark, Kafka**.
+- Applying **statistical modeling** and **A/B testing** for business optimization.
+- Communicating complex insights clearly for decision-making.
+
+---
+
+## 🛠 Project Development and Solutions
+- 🛠 Developed forecasting models using **statistical methods** and **machine learning** to support strategic planning.
+- 📈 Conducted **A/B tests** to evaluate product changes and improve business KPIs.
+- 🔍 Designed and implemented **ETL pipelines** and cloud-based data workflows.
+- 🎨 Created dashboards and interactive visualizations in **Power BI** to present key metrics.
+
+---
+
 
 ### 💼 Experience
 **Data Science Intern — WorldQuant University** *(Jan 2023 – May 2024)*  
