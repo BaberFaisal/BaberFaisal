@@ -13,14 +13,14 @@
 ## 👨‍💻 About Me
 
 ### 🎓 Education
-- 🎓 **MSc in Data Science** — Higher School of Economics (HSE), Moscow *(Sep 2024 – Jun 2026)*
-- 🎓 **BSc in Mathematics** — Sukkur IBA University *(Aug 2019 – Sep 2023)*
+- 🎓 **MSc in Data Science**,Higher School of Economics (HSE), Moscow *(Sep 2024 – Jun 2026)*
+- 🎓 **BSc in Mathematics** ,Sukkur IBA University *(Aug 2019 – Sep 2023)*
 - 📜 **Google Advanced Data Analytics** *(May 2024 – Feb 2025)*
 
 ---
 
 ## 🎯 Career Goals and Focus
-🚀 Pursuing a career in **data science** and **machine learning**.
+ Pursuing a career in **data science** and **machine learning**.
 
 📊 **Special focus on:**
 - Predictive modeling & time-series forecasting.
@@ -34,7 +34,6 @@
 ## 🛠 Project Development and Solutions
 - 🛠 Developed forecasting models using **statistical methods** and **machine learning** to support strategic planning.
 - 📈 Conducted **A/B tests** to evaluate product changes and improve business KPIs.
-- 🔍 Designed and implemented **ETL pipelines** and cloud-based data workflows.
 - 🎨 Created dashboards and interactive visualizations in **Power BI** to present key metrics.
 
 ---
@@ -66,11 +65,6 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-9B59B6?logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apache-airflow&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white)
 
 ---
 
@@ -88,4 +82,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaberFaisal&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
----
