@@ -1,11 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_URL" alt="Banner" width="100%">
-</p>
-
-<!-- Profile Image & Intro -->
-<p align="center">
-  <img src="YOUR_PROFILE_IMAGE_URL" alt="Profile" width="150" style="border-radius:50%;">
+  <img src="https://github.com/BaberFaisal/BaberFaisal/blob/main/ChatGPT%20Image%20Aug%2010%2C%202025%2C%2008_11_22%20AM.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Faisal Baber 👋</h1>
