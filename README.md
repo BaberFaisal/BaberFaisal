@@ -1,19 +1,16 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/BaberFaisal/BaberFaisal/blob/main/ChatGPT%20Image%20Aug%2010%2C%202025%2C%2008_11_22%20AM.png" alt="Banner" width="60%">
+  <img src="https://github.com/BaberFaisal/BaberFaisal/blob/main/ChatGPT%20Image%20Aug%2010%2C%202025%2C%2008_11_22%20AM.png" alt="Banner" width="80%">
 </p>
 
 <h1 align="center">Hi, I'm Faisal Baber 👋</h1>
 <p align="center">
-🎯 Data Scientist / Analyst | 📊 Machine Learning Enthusiast | ☁ Cloud & Big Data
+🎯 Data Scientist / Analyst | 📊 Machine Learning Enthusiast
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-
-I’m a **Data Scientist / Analyst** with **2+ years of experience** in Python, SQL, and machine learning.  
-I specialize in building predictive models that **boost revenue** and **reduce processing time**, and I’m skilled in clearly communicating data insights to drive decision-making.
 
 ---
 
